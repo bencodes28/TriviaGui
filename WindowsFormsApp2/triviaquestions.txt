@@ -1,0 +1,24 @@
+Hi, what is the fruit that is red?
+Grape
+Peach
+Apple
+Bananas
+3
+Who is the QB for the Packers?
+Me
+Mike Vick
+Aaron Rodgers
+Michael Jordan
+3
+Who is the president of United States?
+Donald Trump
+George Bush
+Barak Obama
+Scott Jones
+1
+What day is Christmas?
+Dec32
+Dec25
+Jan1
+Dec24
+2
